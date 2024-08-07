@@ -1,0 +1,9 @@
+RAZER BLADE, Razer, $2000.0, 69, i7 7th Gen, RTX 3060
+XPS, Dell, $1976.0, 8, i5 9th Gen, GTX 3070
+ALIENWARE, Alienware, $1978.0, 19, i5 9th Gen, RTX 3070
+SWIFT 7, Acer, $900.3, 10, i5 9th Gen, GTX 3070
+MACBOOK PRO 16, Apple, $3500.0, 4, i5 9th Gen, RTX 3070
+ACER NITRO 5, Acer, $1200.0, 38, i7 8th Gen, RTX 3070
+ASUS ROG ZEPHYRUS S17, Asus, $2500.0, 8, i7 9th Gen, RTX 4070
+ACER PREDATOR HELIOS 300, Acer, $1500.0, 26, i7 9th Gen, RTX 3070
+DELL G5, Dell, $900.0, 0, i5 9th Gen, GTX 1650
